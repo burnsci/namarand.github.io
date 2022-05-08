@@ -5,45 +5,31 @@ categories: [Ressource]
 tags: [story, background]
 ---
 
-## The Sector
+## Inferis System
 
-The Sector contains several planets.
+The Inferis system, near the border of the Imperium, always was a troubled system. Even after the Imperium conquered it, they never got rid of the Orks from one of the planets. They are usually just a small nuisance
+as they spend too much time fighting with each other, but things have changed. A warboss, Grutbog Deffrippa, managed to unite several tribes to form  the WAAAGH! Deffrippa and started raiding the nearby planets.
 
-## Local Forces
+The system is protected by a small force of Sister of Battle, The Blood Of Her Holy Vengeance, follower of Saint Celestine. However, they are not enough to protect all the systems.
+The governor called for help, and the White Scars's 3rd company, The Eagle Brotherhood, answered. They started protecting the key facility while planning a counter-attack to eliminate the green skins once and for all.
 
-### Adepta Sororitas - The Blood Of Her Holy Vengeance
+What they didn't plan was the apparition of a Warp Storm near the system.
 
-Saint Celestine musters a retinue of sisters of the order of the Bloody Rose, for a campaign into an isolated sector of space showing extreme signs of heresy where there are reports of entire hive cities,
-previously loyal to the Imperium, falling to the power of some mysterious false emperor. Dubbed The Blood Of Her Holy Vengeance, Celestine will lead them into snuffing out this heresy before it can establish 
-a proper foothold... and if the reports are to be believed, only the Adepta Sororitas and their undying faith and love for the God Emperor of Mankind may be trusted, for it is unknown how deep the influence 
-of this false emperor roots inside the denizens. Establishing a base of operations at the convent of the Warriors of the Bloody Dawn, Celestine recruits the convents newly appointed canoness and her 
-personal retinue to assist her for battles ahead.
- 
-### White Scar - The Eagle Brotherhood
- 
-The 3rd company of the White Scars.
- 
-### Orks - WAAAGH! Deffrippa
- 
-Orks living in this subsystem that the imperium struggle to get rid of.
- 
-## New arrivants
 
-### Death Guard - Carnivals of Chaos
+## The Warp Storm
 
-Death Guard can spread their plagues in many ways. The Carnival of Chaos is a circus that arrives on an imperial world with a grand celebration. Clowns, gymnasts, 
-and exotic beasts spark massive excitement among the populace. When Darkness falls however the illusion breaks, and they are revealed to be a horde of horrible mutants! 
-Poxwalkers, Chaos Spawn, and Plague Marines devastate the defenseless metropolises of the Imperium. Only the arrival of the Astartes can burn away their corruption.
+The storm made warp travel hazardous and shutted down most of the long range communication, isolating the system from the rest of the Imperium.
 
-### T'au Empire - M'eka Enclave
+For the members of the sects of the four-armed Emperor lurking in the hive cities, this was the sign they awaited. It's time to overthrow the corrupted regim and to embrace the glory of the Genestealer.
 
-Trying to expend their Empire, they will make the inhabitant of this sector join the Greater Good, either in peace or blood.
+From the storm emerged several objects. Debris, ships, even planets. One of those ships crashed into one of the inhabited planets of the system and started emitting a signal. The Lion of Caliban, Dark Angels’s 5th company,
+detected this signal and recognised it as one of their ships that was lost during the Heresy. They have to neutralize this signal before it draws more attention and investigate the ship for any trace of Fallens. Little do they know,
+the ship is infected by an old Tyranid swarm, the Splinter Fleet Anubis. This swarm lost contact with the Hive fleet as the ship got lost into the Warp, but they are now ready to swarm over the system.
 
-### Tyranids - Splinter Fleet Anubis
+A Chaos warband, the Carnival of Chaos, started wreaking havoc on the system soon after, spreading Nurgle disease's everywhere. Did they follow the storm, or did they call it? There is no way to know.
 
-As the warp storm appeared, from it an old Dark Angels ship for the heresy emerged from it. It quickly crashed onto one of the uninhabited planet of the sector, and released into the wild it's unexpected swarm.
+A T'au force, the M'eka Enclave, was watching all along. They were sent there to scoot the area, and bring planets into the greater good. They had to be careful, as the imperium forces were too strong to be faced in combat.
+But with all the chaos brought by the storm, it's now the opportunity to strike.
 
-### Dark Angels - Lions Of Caliban
-
-Teherion and Thaniel were following rumors of the presence of Fallen in this subsector when the on board instrument of the Lion's Roar detected the apparition of one of their old ship in the area. A ship 
-that was deemed lost in the warp during the Heresy... Could this be part of a Fallen's scheme?
+Finally, all the energy from the warp triggered an automatic maintenance protocol on an underground tomb world. The necron slowly woke up, but you can't sleep for thousands of years without paying a price. Madness spreaded through
+the dynasty, and from this madness resulted Destroyers, bound to kill and to exterminate all life forms.
