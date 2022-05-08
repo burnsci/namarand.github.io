@@ -29,6 +29,8 @@ the ship is infected by an old Tyranid swarm, the Splinter Fleet Anubis. This sw
 
 A Chaos warband, the Carnival of Chaos, started wreaking havoc on the system soon after, spreading Nurgle disease's everywhere. Did they follow the storm, or did they call it? There is no way to know.
 
+A Space Wolf battle cruiser, Ragnars Fang, is now stranded in the system having sustained damage during a turbulent warp transit taken off course. Now the wolves are seeking allies while they await reinforcement and repair.
+
 A T'au force, the M'eka Enclave, was watching all along. They were sent there to scoot the area, and bring planets into the greater good. They had to be careful, as the imperium forces were too strong to be faced in combat.
 But with all the chaos brought by the storm, it's now the opportunity to strike.
 
