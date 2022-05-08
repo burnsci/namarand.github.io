@@ -45,3 +45,12 @@ As the warp storm appeared, from it an old Dark Angels ship for the heresy emerg
 
 Teherion and Thaniel were following rumors of the presence of Fallen in this subsector when the on board instrument of the Lion's Roar detected the apparition of one of their old ship in the area. A ship 
 that was deemed lost in the warp during the Heresy... Could this be part of a Fallen's scheme?
+
+### Space Wolves - Ragnars Fang
+
+Having successfully rescued a force of First Born Spacewolves from the Battle of Prospero, the battle cruiser Ragnars Fang had set into the warp to rendezvous with some brethren from the Ultima Founding to bolster their numbers into a full fighting force. A turbulent warp voyage ended when they translated into the Inferis system suddenly and unannounced. 
+
+Captain Haldor Ironaxe was left trying to determine where they were and how they got there. Once realising they were hopelessly off course Haldor attempted to transmit their new location to Fenris via the astropathic choir, however no acknowledgement has been received to date. With the battle cruiser damaged from the unexpected warp translation, now the force must find Allies in the system while they wait in hope for reinforcements and repairs.
+
+
+
