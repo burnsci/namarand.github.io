@@ -1,8 +1,9 @@
 ---
-title: Story Spotlight
+title: The Inferis System
 date: 2022-05-08
 categories: [Ressource]
 tags: [story, background]
+pin: true
 ---
 
 ## Inferis System

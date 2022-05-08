@@ -1,9 +1,10 @@
 ---
-title: Getting Started
-author: cotes
+title: Armies Presentation
+author: Namarand
 date: 2019-08-09 20:55:00 +0800
 categories: [Ressource]
 tags: [armies, background]
+pin: true
 ---
 
 ## Local Forces
